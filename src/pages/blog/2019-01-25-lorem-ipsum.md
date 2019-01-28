@@ -2,8 +2,8 @@
 templateKey: blog-post
 title: Lorem Ipsum
 date: 2019-01-25T10:56:02.744Z
-description: |
-  Lorem Ipsum
+description: |+
+
 tags:
   - '1'
 ---
